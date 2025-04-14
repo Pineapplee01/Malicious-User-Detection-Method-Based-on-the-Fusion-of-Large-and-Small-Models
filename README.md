@@ -14,7 +14,7 @@ This project builds upon the [SeGA (AAAI 2024)](https://arxiv.org/abs/2312.11553
 
 ## 📦 Data
 
--**We Use the same dataset as the SeGA project，and the dataset is [available](https://github.com/ying0409/SeGA) in Official code and data of the paper [SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter](https://arxiv.org/abs/2312.11553) **
+- **We Use the same dataset as the SeGA project，and the dataset is [available](https://github.com/ying0409/SeGA)** in Official code and data of the paper [SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter](https://arxiv.org/abs/2312.11553) 
 
 user IDs and list IDs sampled from [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) and user labels in this repo.
 
