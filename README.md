@@ -102,7 +102,7 @@ python main_llm.py \
 
 ## ✨ Acknowledgements
 
-This repository is an extension of SeGA, integrating LLMs to support richer user representations in complex social networks. Thanks to the open-source efforts of the SeGA and Hugging Face teams.
+This repository is an extension of SeGA with the method of What does the Bot Say, integrating LLMs to support richer user representations in complex social networks. Thanks to the open-source efforts of the SeGA, Botsay and Hugging Face teams.
 
 ---
 
