@@ -1,7 +1,3 @@
-Here's a professional and GitHub-ready `README.md` for your SeGA-LLM project:
-
----
-
 ```markdown
 # SeGA-LLM: Enhancing SeGA with Large Language Models for Anomalous User Detection
 
@@ -118,12 +114,6 @@ python main_llm.py \
 This repository is an extension of SeGA, integrating LLMs to support richer user representations in complex social networks. Thanks to the open-source efforts of the SeGA and Hugging Face teams.
 
 ---
-
-## 🧠 Contact
-
-For questions, issues, or collaboration:
-- 📬 Email: yourname@domain.com
-- 💡 GitHub Issues welcome!
 
 ```
 
