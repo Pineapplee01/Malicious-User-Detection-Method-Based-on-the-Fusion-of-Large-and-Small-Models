@@ -4,13 +4,22 @@ This project builds upon the [SeGA (AAAI 2024)](https://arxiv.org/abs/2312.11553
 
 ## 🔍 Key Features
 
-- ✅ Combines graph-based learning (SeGA) with LLM-based text representations
+- ✅ Combines graph-based learning with LLM-based text representations
 - ✅ Supports **Mistral**, **LLaMA-2 (7B, 13B, 70B)**, and **ChatGPT**
 - ✅ Applies **preference-aware self-contrastive learning** with prompt engineering
 - ✅ Enriches user features with semantic insights from LLMs
 - ✅ Modular and extensible for research use
 
 ---
+
+## 📦 Data
+
+-**We Use the same dataset as the SeGA project，and the dataset is [available](https://github.com/ying0409/SeGA) in Official code and data of the paper [SeGA: Preference-Aware Self-Contrastive Learning with Prompts for Anomalous User Detection on Twitter](https://arxiv.org/abs/2312.11553) **
+
+user IDs and list IDs sampled from [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) and user labels in this repo.
+
+Download the complete dataset: https://drive.google.com/drive/folders/18q4qIwOH4QfG5eoDlYMigdTi6Dze3QbA?usp=sharing
+
 
 ## 🛠️ Environment Requirements
 
