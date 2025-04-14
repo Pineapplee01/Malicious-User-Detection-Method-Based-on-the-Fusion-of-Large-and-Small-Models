@@ -1,4 +1,4 @@
-# SeGA-LLM: Enhancing SeGA with Large Language Models for Anomalous User Detection
+# Enhancing Method with Large Language Models for Anomalous User Detection
 
 This project builds upon the [SeGA (AAAI 2024)](https://arxiv.org/abs/2312.11553) framework by integrating **Large Language Models (LLMs)** for enhanced textual understanding in **anomalous user detection** on Twitter. It preserves SeGA's original graph learning architecture while augmenting its semantic capabilities using LLMs.
 
