@@ -1,4 +1,3 @@
-```markdown
 # SeGA-LLM: Enhancing SeGA with Large Language Models for Anomalous User Detection
 
 This project builds upon the [SeGA (AAAI 2024)](https://arxiv.org/abs/2312.11553) framework by integrating **Large Language Models (LLMs)** for enhanced textual understanding in **anomalous user detection** on Twitter. It preserves SeGA's original graph learning architecture while augmenting its semantic capabilities using LLMs.
@@ -87,7 +86,7 @@ python main_llm.py \
 
 ---
 
-## 🔬 Differences from Original SeGA
+## 🔬 Innovations
 
 - **Text Feature Handling**:
   - Original: Uses RoBERTa for user and tweet encoding
@@ -101,20 +100,10 @@ python main_llm.py \
 
 ---
 
-## 📖 References
-
-- 📄 [SeGA: Preference-Aware Self-Contrastive Learning for Anomalous User Detection](https://arxiv.org/abs/2312.11553)
-- 📄 [Botsay: Opportunities and Risks of LLMs in Bot Detection](https://arxiv.org/abs/2402.00371)
-- 📄 [SimCSE: Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821)
-
----
-
 ## ✨ Acknowledgements
 
 This repository is an extension of SeGA, integrating LLMs to support richer user representations in complex social networks. Thanks to the open-source efforts of the SeGA and Hugging Face teams.
 
 ---
 
-```
 
-Let me know if you'd like to generate a logo/banner or upload this as a `.md` file!
