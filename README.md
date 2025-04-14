@@ -14,7 +14,7 @@ This project builds upon the [SeGA (AAAI 2024)](https://arxiv.org/abs/2312.11553
 
 ## 📦 Data
 
-- **We Use the same dataset as the [SeGA project](https://github.com/ying0409/SeGA), its [complete dataset](https://drive.google.com/drive/folders/18q4qIwOH4QfG5eoDlYMigdTi6Dze3QbA?usp=sharing) including the user IDs and list IDs sampled from [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) is provided,
+- **We Use the same dataset as the [SeGA project](https://github.com/ying0409/SeGA)**, its [complete dataset](https://drive.google.com/drive/folders/18q4qIwOH4QfG5eoDlYMigdTi6Dze3QbA?usp=sharing) including the user IDs and list IDs sampled from [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) is provided,
 
 - **Our processed data is availabe [here](https://drive.google.com/drive/folders/19SKgmUEUOm9iJHdxfkfAnohtx9VLQ59Z?usp=sharing)**
 
