@@ -18,7 +18,7 @@ This project builds upon the [SeGA (AAAI 2024)](https://arxiv.org/abs/2312.11553
 
 - "We provide the user IDs and list IDs sampled from [Twibot-22](https://github.com/LuoUndergradXJTU/TwiBot-22) and user labels in this repo.Download the complete dataset: https://drive.google.com/drive/folders/18q4qIwOH4QfG5eoDlYMigdTi6Dze3QbA?usp=sharing"
 
-- Processed data is availabe at https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-hero-goto
+- Our processed data is availabe [here](https://drive.google.com/drive/folders/19SKgmUEUOm9iJHdxfkfAnohtx9VLQ59Z?usp=sharing)
 
 ---
 
